@@ -104,3 +104,5 @@ print(np.round(V_vi.reshape(4, 4), 1), "\n")
 
 print(f"policy iteration : {total} sweeps")
 print(f"value iteration  : {sw_vi} sweeps")
+
+
